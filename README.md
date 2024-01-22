@@ -52,4 +52,10 @@ With this in mind, we realized a Friedman test, which gave us a p-value of 0.44.
 
 Considering a significance level of 5%, we can certainly accept the null hypothesis, i.e., the test concludes that there is no significant difference in performance among the algorithms.
 
+## Contributors
+
+- [António Cardoso](https://github.com/ToniCardosooo)
+- [Antónia Brito](https://github.com/Nia3324)
+- [Bárbara Santos](https://github.com/barbara-san)
 <sub><sup>README.md by Bárbara Santos</sup></sub>
+
