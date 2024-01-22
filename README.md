@@ -57,5 +57,6 @@ Considering a significance level of 5%, we can certainly accept the null hypothe
 - [António Cardoso](https://github.com/ToniCardosooo)
 - [Antónia Brito](https://github.com/Nia3324)
 - [Bárbara Santos](https://github.com/barbara-san)
+  
 <sub><sup>README.md by Bárbara Santos</sup></sub>
 
